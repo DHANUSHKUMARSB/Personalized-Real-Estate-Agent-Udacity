@@ -1,9 +1,9 @@
-# IF YOU ARE WORKING IN AN IDE OTHER THAN THE UDACITY WORKSPACE, USE `main.py`.
-# As it uses the latest versions of the packages as of 13-11-2025.
+### IF YOU ARE WORKING IN AN IDE OTHER THAN THE UDACITY WORKSPACE, USE `main.py`.
+### As it uses the latest versions of the packages as of 13-11-2025.
 #
-# If you need to run this in the Udacity Workspace,
-# please use the code provided in the
-# `Personalized_Real_Estate_Agent.ipynb` file in this repository.
+###  If you need to run this in the Udacity Workspace,
+### please use the code provided in the
+### `Personalized_Real_Estate_Agent.ipynb` file in this repository.
 
 # 🏡 HomeMatch – Personalized Real Estate Agent  
 ### *(Udacity – Building GenAI Solutions Final Project)*
