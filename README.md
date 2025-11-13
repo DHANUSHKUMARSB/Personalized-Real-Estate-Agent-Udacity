@@ -1,5 +1,5 @@
 ### IF YOU ARE WORKING IN AN IDE OTHER THAN THE UDACITY WORKSPACE, USE `main.py`.
-### As it uses the latest versions of the packages as of 13-11-2025.
+### As main.py uses the latest versions of the packages as of 13-11-2025.
 #
 ###  If you need to run this in the Udacity Workspace,
 ### please use the code provided in the
