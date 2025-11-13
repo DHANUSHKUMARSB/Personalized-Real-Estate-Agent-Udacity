@@ -33,6 +33,17 @@ from langchain_huggingface import HuggingFaceEmbeddings
 # OpenAI API
 from openai import OpenAI
 
+# RUN THE BELOW CODE TO SET API KEY
+
+# If you're using Windows CMD or Windows PowerShell (permanent)
+# setx OPENAI_API_KEY "your_api_key_here"
+
+# If you're using Git Bash on Windows or Linux terminal (bash) or macOS terminal (zsh)
+# export OPENAI_API_KEY="your_api_key_here"
+
+# If you're using Linux/Mac permanently (bash or zsh)
+# echo 'export OPENAI_API_KEY="your_api_key_here"' >> ~/.bashrc   # for bash
+# echo 'export OPENAI_API_KEY="your_api_key_here"' >> ~/.zshrc    # for zsh
 
 
 # OpenAI client
