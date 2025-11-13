@@ -33,12 +33,16 @@ HomeMatch works like an intelligent real estate chatbot that:
 
 ## 📂 Repository Structure
 
-├── main.py → Use outside Udacity Workspace
-├── Personalized_Real_Estate_Agent.ipynb → Use inside Udacity Workspace
-├── homes.csv → Auto-generated synthetic listings
-├── requirements.txt → Dependencies for local environment
-└── README.md → Project documentation
 
+## Folder Structure
+
+```bash
+#├── main.py → Use outside Udacity Workspace
+#├── Personalized_Real_Estate_Agent.ipynb → Use inside Udacity Workspace
+#├── homes.csv → Auto-generated synthetic listings
+#├── requirements.txt → Dependencies for local environment
+#└── README.md → Project documentation
+```
 yaml
 Copy code
 
